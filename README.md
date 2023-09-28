@@ -20,7 +20,7 @@ IAP Desktop uses [Identity-Aware-Proxy (IAP)](https://cloud.google.com/iap/docs/
 *   Connect to VM instances that don’t have a public IP address
 *   Connect from anywhere over the internet
 
-Together, IAP Desktop and [Identity-Aware-Proxy (IAP)](https://cloud.google.com/iap/docs/tcp-forwarding-overview) let you apply zero-trust security to your VMs:
+Together, IAP Desktop and [Identity-Aware-Proxy (IAP)](https://cloud.google.com/iap/docs/tcp-forwarding-overview) let you apply [zero-trust security](https://techster.wiki/zero-trust-security-model) to your VMs:
 
 *   Apply fine-grained access controls that define [who can access which VM](https://cloud.google.com/iap/docs/using-tcp-forwarding#configuring_access_and_permissions)
 *   Use [access levels](https://cloud.google.com/iap/docs/cloud-iap-context-aware-access-howto) to restrict access by time or location
